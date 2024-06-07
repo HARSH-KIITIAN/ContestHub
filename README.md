@@ -12,7 +12,7 @@ ContestHub is a web application that helps programmers stay informed about curre
 
 ## Getting Started
 
-To get started with ContestHub, simply visit the [live demo](https://heathered-crystal-trombone.glitch.me/) and start exploring the available contests. No installation or setup required!
+To get started with ContestHub, simply visit the [live demo](https://utopian-salty-sound.glitch.me/) and start exploring the available contests. No installation or setup required!
 
 ## Contributing
 
